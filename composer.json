@@ -1,9 +1,9 @@
 {
-    "name": "outeredge/swagger-module",
-	"description": "Zend Framework 2 Module for Swagger resource file generation",
+    "name": "thadudexx/swagger-module",
+	"description": "Zend Framework 2 Module for Swagger(2.0) resource file generation",
 	"type": "library",
 	"license": "Apache-2.0",
-	"homepage": "https://github.com/outeredge/SwaggerModule",	
+	"homepage": "https://github.com/thadudexx/SwaggerModule",	
 	"keywords": [
 		"api",
         	"rest",
@@ -12,7 +12,7 @@
 	],
     "require": {
 		"php": ">=5.3.3",
-        "zircote/swagger-php": "dev-master"
+        "zircote/swagger-php": "0.8.*@dev"
     },
 	"autoload": {
 		"psr-0": {
